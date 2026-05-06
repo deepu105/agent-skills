@@ -4,7 +4,7 @@ description: "Use when securing FastAPI API endpoints with JWT Bearer token vali
 license: Apache-2.0
 metadata:
   author: Auth0 <support@auth0.com>
-  version: '1.0.0'
+  version: '1.0.1'
   openclaw:
     emoji: "\U0001F510"
     homepage: https://github.com/auth0/agent-skills

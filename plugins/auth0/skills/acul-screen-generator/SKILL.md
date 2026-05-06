@@ -4,6 +4,7 @@ description: Generates complete, branded Auth0 Advanced Custom Universal Login (
 license: Apache-2.0
 metadata:
   author: Auth0 <support@auth0.com>
+  version: '1.0.1'
   openclaw:
     emoji: "🔐"
     homepage: https://github.com/auth0/agent-skills
